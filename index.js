@@ -1,0 +1,6 @@
+
+/**
+ * @module prolb
+ * @author diesweed
+ */
+
